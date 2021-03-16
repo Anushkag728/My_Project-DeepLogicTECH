@@ -1,0 +1,10 @@
+backend/server/logs/*
+frontend/server/logs/*
+backend/apps/*
+frontend/apps/*
+!backend/apps/.dummy
+!frontend/apps/.dummy
+frontend/framework/conf/default_app.json
+.chrome
+.DS_Store
+debug.log
